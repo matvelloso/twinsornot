@@ -1,3 +1,5 @@
+[![View with AzureLens](https://azurelenspublic.blob.core.windows.net/img/azurelensbadge.png)](http://www.azurelens.net/?github=matvelloso/twinsornot/master/TwinsOrNot.json)
+
 # twinsornot
 Source code for www.twinsornot.net v1
 

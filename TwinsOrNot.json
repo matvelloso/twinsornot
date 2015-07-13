@@ -1,0 +1,138 @@
+﻿{
+  "objects": [
+    {
+      "id": "AzureLens.Net",
+      "type": "BOX_TYPE.WebSite",
+      "position2": { "x": 0, "y": 0 },
+      "pinnedToMenu": true,
+      "menuName": "1 - TwinsOrNot.Net Web App",
+      "description": "TwinsOrNot.Net is a sample website that uses the Project Oxford Face API."    
+    },
+    {
+      "id": "box2d Web Server",
+      "type": "BOX2D_TYPE.BorderOnly",
+      "points2": [
+        { "x": -12, "y": -23 },
+        { "x": 12, "y": 5 }
+      ],
+      "color4": [ 1, 1, 1, 1 ]
+    },
+    {
+      "id": "text Web Server",
+      "type": "TEXT_TYPE.Flat",
+      "position2": { "x": -2, "y": -24 },
+      "color4": [ 1, 1, 1, 1 ],
+      "fontSize": 60,
+      "fontName": "Segoe UI",
+      "text": "TwinsOrNot.Net"
+    },
+    {
+      "id": "ASP.Net Web API",
+      "type": "BOX2D_TYPE.Filled",
+      "points2": [
+        { "x": -5, "y": -7 },
+        { "x": 5, "y": -11 }
+      ],
+      "color4": [ 0.5, 0, 0.1, 1 ],
+      "pinnedToMenu": true,
+      "menuName": "2 - Web API",
+      "description": "ASP.Net Web API/MVC are used so the UI can communicate with our server tier and provide the logic behind TwinsOrNot.Net."    
+    },
+    {
+      "id": "text ASP.Net",
+      "type": "TEXT_TYPE.Flat",
+      "position2": { "x": -4.5, "y": -8.5 },
+      "color4": [ 1, 1, 1, 1 ],
+      "fontSize": 60,
+      "fontName": "Segoe UI",
+      "text": "ASP.Net Web API/MVC"
+    },
+    {
+      "id": "box2d server",
+      "type": "BOX2D_TYPE.BorderOnly",
+      "points2": [
+        { "x": -6, "y": -6 },
+        { "x": 6, "y": -13 }
+      ],
+      "color4": [ 1, 1, 1, 1 ]
+    },
+    {
+      "id": "text Server",
+      "type": "TEXT_TYPE.Flat",
+      "position2": { "x": -1, "y": -11.5 },
+      "color4": [ 1, 1, 1, 1 ],
+      "fontSize": 60,
+      "fontName": "Segoe UI",
+      "text": "Server"
+    },
+    {
+      "id": "box2d UI",
+      "type": "BOX2D_TYPE.BorderOnly",
+      "points2": [
+        { "x": -6, "y": -14 },
+        { "x": 6, "y": -19 }
+      ],
+      "color4": [ 1, 1, 1, 1 ]
+    },
+    {
+      "id": "text UI",
+      "type": "TEXT_TYPE.Flat",
+      "position2": { "x": -0.5, "y": -14.5 },
+      "color4": [ 1, 1, 1, 1 ],
+      "fontSize": 60,
+      "fontName": "Segoe UI",
+      "text": "UI"
+    },
+    {
+      "id": "User Interface",
+      "type": "BOX2D_TYPE.Filled",
+      "points2": [
+        { "x": -5, "y": -16 },
+        { "x": 5, "y": -18 }
+      ],
+      "color4": [ 0, 0.5, 0.1, 1 ],
+      "pinnedToMenu": true,
+      "menuName": "3 - User Interface",
+      "description": "The UI is build in HTML/JavaScript and relies mostly on JQuery for uploading the photos and obtaining the result from the REST API."    
+    },
+    {
+      "id": "text HTML5",
+      "type": "TEXT_TYPE.Flat",
+      "position2": { "x": -3.5, "y": -16.5 },
+      "color4": [ 1, 1, 1, 1 ],
+      "fontSize": 60,
+      "fontName": "Segoe UI",
+      "text": "HTML5/JavaScript"
+    },
+    {
+      "id": "Oxford",
+      "type": "BOX2D_TYPE.Filled",
+      "points2": [
+        { "x": 18, "y": -1 },
+        { "x": 30, "y": -6 }
+      ],
+      "color4": [ 0, 0, 0.5, 1 ],
+      "pinnedToMenu": true,
+      "menuName": "4 - Project Oxford",
+      "description": "The Face API receives the photos and returns a score between 0 and 1 for how similar they look."
+    },
+    {
+      "id": "text Oxford",
+      "type": "TEXT_TYPE.Flat",
+      "position2": { "x": 19, "y": -3 },
+      "color4": [ 1, 1, 1, 1 ],
+      "fontSize": 80,
+      "fontName": "Segoe UI",
+      "text": "Project Oxford API"
+    },
+    {
+      "id": "Arrow Oxford",
+      "type": "ARROW_TYPE.ArrowTip",
+      "points2": [
+        { "x": 7, "y": -9 },
+        { "x": 17, "y": -4 }
+      ],
+      "color4": [ 0.5, 0.5, 1, 1 ]
+    }
+  ]
+}
