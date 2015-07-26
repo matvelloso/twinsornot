@@ -9,7 +9,7 @@
       "description": "TwinsOrNot.Net is a sample website that uses the Project Oxford Face API."    
     },
     {
-      "id": "box2d Web Server",
+      "id": "box2dWebServer",
       "type": "BOX2D_TYPE.BorderOnly",
       "points2": [
         { "x": -12, "y": -23 },
@@ -18,7 +18,7 @@
       "color4": [ 1, 1, 1, 1 ]
     },
     {
-      "id": "text Web Server",
+      "id": "textWebServer",
       "type": "TEXT_TYPE.Flat",
       "position2": { "x": -2, "y": -24 },
       "color4": [ 1, 1, 1, 1 ],
@@ -27,7 +27,7 @@
       "text": "TwinsOrNot.Net"
     },
     {
-      "id": "ASP.Net Web API",
+      "id": "ASP.NetWebAPI",
       "type": "BOX2D_TYPE.Filled",
       "points2": [
         { "x": -5, "y": -7 },
@@ -39,7 +39,7 @@
       "description": "ASP.Net Web API/MVC are used so the UI can communicate with our server tier and provide the logic behind TwinsOrNot.Net."    
     },
     {
-      "id": "text ASP.Net",
+      "id": "textASP.Net",
       "type": "TEXT_TYPE.Flat",
       "position2": { "x": -4.5, "y": -8.5 },
       "color4": [ 1, 1, 1, 1 ],
@@ -48,7 +48,7 @@
       "text": "ASP.Net Web API/MVC"
     },
     {
-      "id": "box2d server",
+      "id": "box2dserver",
       "type": "BOX2D_TYPE.BorderOnly",
       "points2": [
         { "x": -6, "y": -6 },
@@ -57,7 +57,7 @@
       "color4": [ 1, 1, 1, 1 ]
     },
     {
-      "id": "text Server",
+      "id": "textServer",
       "type": "TEXT_TYPE.Flat",
       "position2": { "x": -1, "y": -11.5 },
       "color4": [ 1, 1, 1, 1 ],
@@ -66,7 +66,7 @@
       "text": "Server"
     },
     {
-      "id": "box2d UI",
+      "id": "box2dUI",
       "type": "BOX2D_TYPE.BorderOnly",
       "points2": [
         { "x": -6, "y": -14 },
@@ -75,7 +75,7 @@
       "color4": [ 1, 1, 1, 1 ]
     },
     {
-      "id": "text UI",
+      "id": "textUI",
       "type": "TEXT_TYPE.Flat",
       "position2": { "x": -0.5, "y": -14.5 },
       "color4": [ 1, 1, 1, 1 ],
@@ -84,7 +84,7 @@
       "text": "UI"
     },
     {
-      "id": "User Interface",
+      "id": "UserInterface",
       "type": "BOX2D_TYPE.Filled",
       "points2": [
         { "x": -5, "y": -16 },
@@ -96,7 +96,7 @@
       "description": "The UI is build in HTML/JavaScript and relies mostly on JQuery for uploading the photos and obtaining the result from the REST API."    
     },
     {
-      "id": "text HTML5",
+      "id": "textHTML5",
       "type": "TEXT_TYPE.Flat",
       "position2": { "x": -3.5, "y": -16.5 },
       "color4": [ 1, 1, 1, 1 ],
@@ -117,7 +117,7 @@
       "description": "The Face API receives the photos and returns a score between 0 and 1 for how similar they look."
     },
     {
-      "id": "text Oxford",
+      "id": "textOxford",
       "type": "TEXT_TYPE.Flat",
       "position2": { "x": 19, "y": -3 },
       "color4": [ 1, 1, 1, 1 ],
@@ -126,7 +126,7 @@
       "text": "Project Oxford API"
     },
     {
-      "id": "Arrow Oxford",
+      "id": "ArrowOxford",
       "type": "ARROW_TYPE.ArrowTip",
       "points2": [
         { "x": 7, "y": -9 },
