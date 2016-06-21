@@ -10,3 +10,5 @@ A new version of TwinsOrNot is now live and that version doesn't match this sour
 Remember you will need your own Face API key: http://www.projectoxford.ai/face and some details about how it was built are available here: http://www.matvelloso.com/twinsornot
 
 Thanks!
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
